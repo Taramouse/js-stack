@@ -6,5 +6,8 @@
   "scripts": {
     "start": "node ."
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "color": "^1.0.3"
+  }
 }
