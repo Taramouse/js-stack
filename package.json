@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "js stack from scratch",
   "main": "index.js",
-  "repository": {},
+  "scripts": {
+    "start": "node ."
+  },
   "license": "MIT"
 }
