@@ -1,5 +1,5 @@
 // @flow
-
+// eslint-disable-file global-require
 import 'babel-polyfill'
 
 import React from 'react'
