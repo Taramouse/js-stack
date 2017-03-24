@@ -7,5 +7,4 @@ class Dog {
     return `Woof woof, I am ${this.name}`
   }
 }
-
-module.exports = Dog
+export default Dog
