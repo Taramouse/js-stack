@@ -8,6 +8,9 @@
     "test": "eslint src"
   },
   "license": "MIT",
+  "browserslist": [
+    "> 1%"
+  ],
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.24.0",
